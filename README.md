@@ -25,9 +25,9 @@
 ##### DHCP Server ( DHCP szerver címe )
 
 ##### NTP kliens ( Opcionális bekapcsolni )
-###### Time Zone ( UTC+01:00 )
-###### Summer Time(DST) ( last Sun Mar - last Sun Oct )
-###### Server IP/Name ( ntp.ubuntu.com )
+######     Time Zone ( UTC+01:00 )
+######     Summer Time(DST) ( last Sun Mar - last Sun Oct )
+######     Server IP/Name ( ntp.ubuntu.com )
 
 
 ### Wireless > Basic Settings
