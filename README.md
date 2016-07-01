@@ -8,6 +8,7 @@
 
 ##### A DD-WRT üdvözlő képernyőjén állítsuk be a felhasználónevet, jelszót
 
+
 ### Setup > Basic Setup
 
 ##### WAN portot kapcsoljuk ki és akár hozzá lehet adni a switch portokhoz
@@ -28,6 +29,7 @@
 ###### Summer Time(DST) ( last Sun Mar - last Sun Oct )
 ###### Server IP/Name ( ntp.ubuntu.com )
 
+
 ### Wireless > Basic Settings
 
 ##### Wireless Mode ( AP )
@@ -38,6 +40,7 @@
 ##### Wireless SSID Broadcast ( Enable )
 ##### Sensitivity Range(ACK Timing) ( 2000 )
 ##### Network Configuration ( Bridged )
+
 
 ### Wireless > Wireless Security
 
